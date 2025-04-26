@@ -1,5 +1,5 @@
-Welcome to our project – proudly built by Prajwal!
-Here’s a quick guide to get you started:
+## Welcome to our project – proudly built by Prajwal!
+<br>Here’s a quick guide to get you started:
 
 1. This app comes with two dashboards – one for Admins and one for Employees.
 2. To access the Employee Dashboard, you’ll first need to create an employee account using an email and password.
