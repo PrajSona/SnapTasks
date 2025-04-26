@@ -10,8 +10,12 @@
 5. Once you've created an employee, simply log out of the Admin Panel and log in with the new employee credentials. 
 6. From there, feel free to explore the app and make the most of it!
 
+---
+If you wanna try a demo, it is hosted here: [SnapTasks Demo](https://prajsona.github.io/SnapTasks/)
 
-Like what you see?
-Follow me for more such awesome projects: <br>
-📸 Instagram: @praj22_ <br>
-💼 LinkedIn: Prajwal Sonawane
+---
+
+Like what you see?  
+Follow me for more such awesome projects:  
+📸 Instagram: [@praj22_](https://instagram.com/praj22_)  
+💼 LinkedIn: [Prajwal Sonawane](www.linkedin.com/in/prajwal-sonawane-412589241)
